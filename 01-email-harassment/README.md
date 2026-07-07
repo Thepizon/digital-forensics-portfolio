@@ -65,6 +65,22 @@ Utiliser Wireshark et t-shark pour analyser le trafic réseau capturé et identi
 
 ## Methodology
 
+### 0. Download and Integrity Verification
+
+Avant de commencer l'analyse, il faut vérifier l'intégrité du fichier de preuve 
+téléchargé en comparant son empreinte avec le hash officiel publié sur 
+digitalcorpora.org. Cette étape garantit que le pcap n'a pas été altéré ou 
+corrompu pendant le transfert, une première étape standard pour maintenir la 
+chaîne de possession (chain of custody) d'une preuve numérique.
+
+<p align="center">
+  <img src="screenshots/sha256sum.png" alt="Vérification du hash SHA256 du fichier pcap téléchargé" width="600">
+</p>
+
+
+**SHA256 attendu :** `2b77a9eaefc1d6af163d1ba793c96dbccacb04e6befdf1a0b01f8c67553ec2fb`
+
+
 ### 1. Initial Traffic Analysis (Wireshark)
 
 *À compléter : approche suivie, filtres utilisés, captures d'écran clés.*
@@ -90,4 +106,3 @@ Utiliser Wireshark et t-shark pour analyser le trafic réseau capturé et identi
 - Network traffic analysis
 - Protocol filtering (SMTP/POP3/IMAP)
 - CLI-based forensic analysis
-[](Screen/sha256sum.png)
