@@ -15,7 +15,7 @@ Hands-on digital forensics labs and case studies, personal portfolio built while
 | # | Case | Status | Domain |
 |---|---|---|---|
 | 01 | [Email Harassment](01-email-harassment) | Completed | Network |
-| 02 | P2P Leakage | Planned | Disk |
+| 02 | [P2P Leakage](02-p2p-leakage) | In Progress | Disk |
 | 03 | NIST Data Leakage | Planned | Disk / Windows |
 | 04 | Illegal Possession of Images | Planned | Disk |
 | 05 | Hacking Case (Wi-Fi) | Planned | Network |
