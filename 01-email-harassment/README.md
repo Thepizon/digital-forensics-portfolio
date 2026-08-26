@@ -2,8 +2,6 @@
 
 ## Executive Summary
 
-## Executive Summary
-
 Une enseignante de l'université Nitroba a reçu plusieurs emails de harcèlement en juillet 2008, envoyés via des services d'emails anonymes en ligne. L'analyse du trafic réseau capturé sur le point d'accès Wi-Fi non protégé d'un dortoir a permis d'isoler le navigateur à l'origine des envois, malgré une adresse IP partagée par plusieurs utilisateurs. En reconstituant l'historique de navigation de ce navigateur, une suite de recherches Google révèle une intention progressive de harceler un professeur, menant à une session Google Calendar/Gmail identifiant le compte `jcoachj@gmail.com`. Ce compte correspond à un étudiant du cours de chimie CHEM109 de la victime, désignant ce dernier comme l'auteur le plus probable des messages.
 
 ## Case Background
